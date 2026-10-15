@@ -1,0 +1,15 @@
+{
+	"name": "devadfacct6",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22b23355-de53-47b1-ba1c-0ec8ef8de2c2",
+		"tenantId": "2c956167-e8a4-4c96-a140-b5117e220c84"
+	}
+}
